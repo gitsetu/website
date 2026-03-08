@@ -1,0 +1,19 @@
+.has-text-link {
+  color: gray !important;
+}
+
+a.has-text-link:hover {
+  color: darkgray !important;
+}
+
+.hero-body {
+  background-color: powderblue !important;
+}
+
+.subtitle {
+  color: cadetblue !important;
+}
+
+.title {
+  color: cadetblue !important;
+}
