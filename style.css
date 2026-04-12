@@ -7,7 +7,7 @@ a.has-text-link:hover {
 }
 
 .hero-body {
-  background-color: #303030 !important;
+  background-color: whitesmoke !important;
 }
 
 -.subtitle {
@@ -20,4 +20,11 @@ a.has-text-link:hover {
 
 -.fit-picture {
   width: 640px;
+}
+
+.text-justified {
+  -column-count: 1;
+  -column-gap: 20px; /* Adjusts the space between columns */
+  text-align: justify;
+  -padding-right: 3rem;
 }
