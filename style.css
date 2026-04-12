@@ -7,13 +7,17 @@ a.has-text-link:hover {
 }
 
 .hero-body {
-  background-color: powderblue !important;
+  background-color: #303030 !important;
 }
 
-.subtitle {
-  color: cadetblue !important;
+-.subtitle {
+  color: SlateGray !important;
 }
 
-.title {
-  color: cadetblue !important;
+-.title {
+  color: SlateGray !important;
+}
+
+-.fit-picture {
+  width: 640px;
 }
