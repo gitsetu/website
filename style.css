@@ -28,3 +28,7 @@ a.has-text-link:hover {
   text-align: justify;
   -padding-right: 3rem;
 }
+
+.logo {
+  margin: 20px;
+}
